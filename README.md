@@ -3,7 +3,7 @@
 This is a simple employee tracker application built using Node.js, Express, and PostgreSQL. It allows users to add, view, and update employee information, as well as manage departments and roles.
 
 ## Video Demo
-[Watch the demo here](https://www.youtube.com/watch?v=6Q5Q6Q8-0-4)
+[Watch the demo here](https://www.loom.com/share/10ebf41ee852491bb27d2007bbe11e95)
 
 ## Installation
 
@@ -25,10 +25,10 @@ cd employee-tracker
 npm install
 ```
 
-4. Create a new PostgreSQL database and user:
+4. Run PostgreSQL shell and add the password for the user:
 
 ```bash
-sudo -u postgres psql
+psql -U postgres 
 ```
 
 5. Run the schema SQL script to create the database and tables:
