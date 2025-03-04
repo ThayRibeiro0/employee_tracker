@@ -3,7 +3,7 @@
 This is a simple employee tracker application built using Node.js, Express, and PostgreSQL. It allows users to add, view, and update employee information, as well as manage departments and roles.
 
 ## Video Demo
-[Watch the demo here](https://www.loom.com/share/10ebf41ee852491bb27d2007bbe11e95)
+[Watch the demo here](https://www.loom.com/share/ce09f4cf457e4614afc130339c3eefb8)
 
 ## Installation
 
