@@ -71,15 +71,15 @@ DB_DATABASE=name_of_your_database
 npm run build
 ```
 
-2. Run the application:
+4. Run the application:
 
 ```bash
 npm run start
 ```
 
-3. You will be greeted with the ASCII art is a form of digital art that uses text characters to create images and designs. It is based on the ASCII (American Standard Code for Information Interchange) character set, which includes letters, numbers, and symbols.
+5. You will be greeted with the ASCII art is a form of digital art that uses text characters to create images and designs. It is based on the ASCII (American Standard Code for Information Interchange) character set, which includes letters, numbers, and symbols.
 
-4. You will be greeted with the main menu:
+6. You will be greeted with the main menu:
 
 - Add employees
 - View all employees
@@ -90,13 +90,13 @@ npm run start
 - Add departments
 - Quit the application
 
-5. Use the arrow keys to navigate through the menu options.
+7. Use the arrow keys to navigate through the menu options.
 
-6. To add a new employee, enter the employee's first name, last name, role, and manager (if applicable).
+8. To add a new employee, enter the employee's first name, last name, role, and manager (if applicable).
 
-7. To update an employee's role, enter the employee's ID and the new role.
+9. To update an employee's role, enter the employee's ID and the new role.
 
-8. To view all employees, use the `View All Employees` option, the same for roles and departments, use the corresponding options.
+10. To view all employees, use the `View All Employees` option, the same for roles and departments, use the corresponding options.
 
 ### License
 
